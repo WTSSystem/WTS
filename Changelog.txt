@@ -1,0 +1,3 @@
+Version 0.1
+---------------------------------------------------
+- Basic trade terminal with trade candles, charts, indicators and orders.

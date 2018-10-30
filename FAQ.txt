@@ -1,0 +1,2 @@
+Q: - What this program do?
+A: - This program allow to trade cryptocoins and show you marketing statictics.
