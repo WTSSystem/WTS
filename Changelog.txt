@@ -1,3 +1,5 @@
-Version 0.1
+Version 1.0.3.5
+- Added english version of client and user manual
 ---------------------------------------------------
+Version 0.1
 - Basic trade terminal with trade candles, charts, indicators and orders.
